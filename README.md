@@ -2,24 +2,24 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm saurabh kumar</h1>
-<h3 align="center">A passionate frontend developer and java developer from India</h3>
+<h3 align="center">A passionate Android developer and java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkumar2001&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkumar2001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Major project on MERN STACK**
+- 🔭 I’m currently working on **Java and Android**
 
-- 🌱 I’m currently learning **REACT,EXPRESS,NEXT.JS AND NODE.JS**
+- 🌱 I’m currently learning **Retrofit volley Kotlin MVVM**
 
-- 👯 I’m looking to collaborate on **Agriculture Disease Detection System**
+- 👯 I’m looking to collaborate on **Crop Leaf Disease Detection System**
 
 - 🤝 I’m looking for help with **Java projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saurabhkumar2001](https://github.com/saurabhkumar2001)
 
-- 💬 Ask me about **JAVA,C++,C,PYTHON,HTML,CSS,JS,REACT AND DSA USING JAVA**
+- 💬 Ask me about **JAVA,C++,C,PYTHON,HTML,CSS,JS,Kotlin,Xml,SQL,REACT AND DSA USING JAVA**
 
 - 📫 How to reach me **saurabhjha.2003@gmail.com**
 
